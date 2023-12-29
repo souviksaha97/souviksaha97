@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @souviksaha97
-- 👀 I’m interested in Embedded Coding
-- 🌱 I’m currently learning Edge AI
-- 💞️ I’m looking to collaborate on Embedded projects
+- 👋🏽 Hi, I’m @souviksaha97
+- I’m interested in Embedded Coding
+- I’m currently learning Edge AI
+- I’m looking to collaborate on Embedded projects
+- Currently a student at Uni Stuttgart, doing an MSc in INFOTECH
 - 📫 How to reach me - Email - souvikssaha@gmail.com
 
 <!---
