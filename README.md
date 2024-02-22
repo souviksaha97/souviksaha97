@@ -3,7 +3,7 @@
 - I’m currently learning Edge AI
 - I’m looking to collaborate on Embedded projects
 - Currently a student at Uni Stuttgart, doing an MSc in INFOTECH
-- 📫 How to reach me - Email - souvikssaha@gmail.com
+- 📫 How to reach me - Email - souvikssaha@gmail.com/st190810@stud.uni-stuttgart.de
 
 <!---
 souviksaha97/souviksaha97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
